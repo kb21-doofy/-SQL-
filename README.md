@@ -35,6 +35,7 @@ https://knotty-act-a6c.notion.site/7-196f95613388805e82aad0a418f5591b
 https://porun.notion.site/SQL-8-SQL-1ad4f0234d2280e7b97bdcf30b4afad0
 
 9章レジュメ
+
 Python : https://knotty-act-a6c.notion.site/9-1bef9561338880deb3f1e1b055b9f36e
 
 Ruby : https://porun.notion.site/PostgreSQL-Ruby-with-Docker-1c84f0234d228070b2acea36f687dfef
