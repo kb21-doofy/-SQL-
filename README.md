@@ -9,6 +9,7 @@
 　　目的：　SQLの基礎を網羅、SQLを応用出来るようにする
 
 主催者X ：　まんもす- @kb21_doofy (https://x.com/kb21_doofy)
+
 　　　　　　 ポルン- @miyamagear (https://x.com/miyamagear )
 
 1章レジュメ　
